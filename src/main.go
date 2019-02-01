@@ -1,7 +1,7 @@
 package main
 
 import (
-	u2t "./udp2tcp"
+	u2t "github.com/manjiewang/udp2tcp/udp2tcp"
 )
 
 const (
